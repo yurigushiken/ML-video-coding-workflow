@@ -15,8 +15,7 @@
   <a href="https://www.youtube.com/watch?v=M90Rbu8EGZc">YouTube Video of v2</a>
 </p>
 
-We began with older video data (collected ~2003).  
-We coded the video for...
+We began with v0 (raw data) and ended with our data collected and coded, as seen in v2. 
 
 ---
 
