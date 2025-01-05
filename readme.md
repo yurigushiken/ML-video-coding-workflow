@@ -2,34 +2,37 @@
 
 Automating Thousands of Frames with Infant Eye-Tracking Coding Machine
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-bottom: 2rem;">
-  <!-- Original version (smaller) -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 50px; margin: 2rem 0;">
+  
+  <!-- Left image & caption -->
   <div style="text-align: center;">
-    <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_event-representations-original-video-gif.gif"
-         alt="Infant Event Representations Original"
-         style="width: 300px;" />
-    <p>
-      <strong>Infant Event Representations Original</strong><br />
-      <a href="https://youtu.be/M90Rbu8EGZc" target="_blank">YouTube Video of original</a>
-    </p>
+    <img
+      src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_event-representations-original-video-gif.gif"
+      alt="Infant Event Representations Original"
+      style="width: 300px;"
+    />
+    <p><strong>Infant Event Representations Original</strong><br/>
+    <a href="https://youtu.be/M90Rbu8EGZc" target="_blank">YouTube Video of original</a></p>
+  </div>
+  
+  <!-- Arrow -->
+  <div style="font-size: 3rem; display: flex; align-items: center;">
+    &#8594;
+  </div>
+  
+  <!-- Right image & caption -->
+  <div style="text-align: center;">
+    <img
+      src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_event-representations-v2-gif.gif"
+      alt="Infant Event Representations V2"
+      style="width: 390px;"
+    />
+    <p><strong>Infant Event Representations V2</strong><br/>
+    <a href="https://youtu.be/45lbqvLpGYQ" target="_blank">YouTube Video of V2</a></p>
   </div>
 
-  <!-- Large arrow in the center -->
-  <div style="font-size: 3rem; display: flex; align-items: center; color: #444;">
-    <span style="color: inherit;">&#8594;</span>
-  </div>
-
-  <!-- V2 version (bigger: ~1.3 times the width of the original) -->
-  <div style="text-align: center;">
-    <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_event-representations-v2-gif.gif"
-         alt="Infant Event Representations V2"
-         style="width: 390px;" />
-    <p>
-      <strong>Infant Event Representations V2</strong><br />
-      <a href="https://youtu.be/45lbqvLpGYQ" target="_blank">YouTube Video of V2</a>
-    </p>
-  </div>
 </div>
+
 
 <div style="text-align: center; margin-top: 2rem;">
   <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_datasheet.png"
