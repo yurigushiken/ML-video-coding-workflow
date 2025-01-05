@@ -1,17 +1,14 @@
+# README
+
 <p>
-  <img src="media/infant_eye-tracking_v0.jpg" width="300" /> ➡️
-  <img src="media/infant_eye-tracking_v1.jpg" width="300" /> ➡️
-  <img src="media/infant_eye-tracking_v2.jpg" width="300" />
+  <img src="media/infant_eye-tracking_v0.jpg" width="200" /> ➡️
+  <img src="media/infant_eye-tracking_v1.jpg" width="200" /> ➡️
+  <img src="media/infant_eye-tracking_v2.jpg" width="200" />
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M90Rbu8EGZc" frameborder="0" allowfullscreen></iframe>  
-_Infant Eye-Tracking coding machine V2_
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IVCymlJNT1A" frameborder="0" allowfullscreen></iframe>  
-_Infant Eye-Tracking coding machine V1_
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/45lbqvLpGYQ" frameborder="0" allowfullscreen></iframe>  
-_Infant Eye-Tracking original video (clip)_
+[Infant Eye-Tracking coding machine V2](https://www.youtube.com/watch?v=M90Rbu8EGZc)  
+[Infant Eye-Tracking coding machine V1](https://www.youtube.com/watch?v=IVCymlJNT1A)  
+[Infant Eye-Tracking original video (clip)](https://www.youtube.com/watch?v=45lbqvLpGYQ)
 
 We began with older video data (collected ~2003).  
 We coded the video for...
