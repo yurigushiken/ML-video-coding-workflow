@@ -6,9 +6,9 @@
   <img src="media/infant_eye-tracking_v2.jpg" width="200" />
 </p>
 
-[Infant Eye-Tracking coding machine V2](https://www.youtube.com/watch?v=M90Rbu8EGZc)  
-[Infant Eye-Tracking coding machine V1](https://www.youtube.com/watch?v=IVCymlJNT1A)  
-[Infant Eye-Tracking original video (clip)](https://www.youtube.com/watch?v=45lbqvLpGYQ)
+[YouTube Video of v0](https://www.youtube.com/watch?v=45lbqvLpGYQ)  
+[YouTube Video of v1](https://www.youtube.com/watch?v=IVCymlJNT1A)  
+[YouTube Video of v2](https://www.youtube.com/watch?v=M90Rbu8EGZc)
 
 We began with older video data (collected ~2003).  
 We coded the video for...
