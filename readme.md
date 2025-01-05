@@ -1,29 +1,34 @@
 # README
 
+<!-- Use a table for better alignment across GitHub's markdown renderer -->
 <p align="center">
-  <!-- First Image & Link -->
-  <span style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_v0.jpg" width="200" /><br/>
-    <a href="https://www.youtube.com/watch?v=45lbqvLpGYQ">YouTube Video of v0</a>
-  </span>
+  <table>
+    <tr>
+      <!-- First Image & Link -->
+      <td align="center">
+        <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_v0.jpg" width="200" /><br/>
+        <a href="https://www.youtube.com/watch?v=45lbqvLpGYQ">YouTube Video of v0</a>
+      </td>
 
-  <!-- Arrow -->
-  <span style="display: inline-block; margin: 0 20px; vertical-align: middle; font-size: 1.5rem;">→</span>
+      <!-- Arrow -->
+      <td align="center" style="font-size: 2rem;">→</td>
 
-  <!-- Second Image & Link -->
-  <span style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_v1.jpg" width="200" /><br/>
-    <a href="https://www.youtube.com/watch?v=IVCymlJNT1A">YouTube Video of v1</a>
-  </span>
+      <!-- Second Image & Link -->
+      <td align="center">
+        <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_v1.jpg" width="200" /><br/>
+        <a href="https://www.youtube.com/watch?v=IVCymlJNT1A">YouTube Video of v1</a>
+      </td>
 
-  <!-- Arrow -->
-  <span style="display: inline-block; margin: 0 20px; vertical-align: middle; font-size: 1.5rem;">→</span>
+      <!-- Arrow -->
+      <td align="center" style="font-size: 2rem;">→</td>
 
-  <!-- Third Image & Link -->
-  <span style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_v2.jpg" width="200" /><br/>
-    <a href="https://www.youtube.com/watch?v=M90Rbu8EGZc">YouTube Video of v2</a>
-  </span>
+      <!-- Third Image & Link -->
+      <td align="center">
+        <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_v2.jpg" width="200" /><br/>
+        <a href="https://www.youtube.com/watch?v=M90Rbu8EGZc">YouTube Video of v2</a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 We began with v0 (raw video files) and ended with coded/labeled video files and datasheet.
