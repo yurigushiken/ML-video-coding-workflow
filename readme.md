@@ -1,41 +1,48 @@
-# README
+# Infant Eye-Tracking Coding Machine
 
-<!-- Use a table for better alignment across GitHub's markdown renderer -->
-<p align="center">
-  <table>
-    <tr>
-      <!-- First Image & Link -->
-      <td align="center">
-        <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_v0.jpg" width="200" /><br/>
-        <a href="https://www.youtube.com/watch?v=45lbqvLpGYQ">YouTube Video of v0</a>
-      </td>
+Automating Thousands of Frames with Infant Eye-Tracking Coding Machine
 
-      <!-- Arrow -->
-      <td align="center" style="font-size: 2rem;">→</td>
+<div style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-bottom: 2rem;">
+  <!-- Original version (smaller) -->
+  <div style="text-align: center;">
+    <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_event-representations-original-video-gif.gif"
+         alt="Infant Event Representations Original"
+         style="width: 300px;" />
+    <p>
+      <strong>Infant Event Representations Original</strong><br />
+      <a href="https://youtu.be/M90Rbu8EGZc" target="_blank">YouTube Video of original</a>
+    </p>
+  </div>
 
-      <!-- Second Image & Link -->
-      <td align="center">
-        <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_v1.jpg" width="200" /><br/>
-        <a href="https://www.youtube.com/watch?v=IVCymlJNT1A">YouTube Video of v1</a>
-      </td>
+  <!-- Large arrow in the center -->
+  <div style="font-size: 3rem; display: flex; align-items: center; color: #444;">
+    <span style="color: inherit;">&#8594;</span>
+  </div>
 
-      <!-- Arrow -->
-      <td align="center" style="font-size: 2rem;">→</td>
+  <!-- V2 version (bigger: ~1.3 times the width of the original) -->
+  <div style="text-align: center;">
+    <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_event-representations-v2-gif.gif"
+         alt="Infant Event Representations V2"
+         style="width: 390px;" />
+    <p>
+      <strong>Infant Event Representations V2</strong><br />
+      <a href="https://youtu.be/45lbqvLpGYQ" target="_blank">YouTube Video of V2</a>
+    </p>
+  </div>
+</div>
 
-      <!-- Third Image & Link -->
-      <td align="center">
-        <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_v2.jpg" width="200" /><br/>
-        <a href="https://www.youtube.com/watch?v=M90Rbu8EGZc">YouTube Video of v2</a>
-      </td>
-    </tr>
-  </table>
-</p>
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_datasheet.png"
+       alt="Infant Eye-Tracking datasheet"
+       style="max-width: 500px;" />
+  <p><strong>participant datasheet, 1 of 72</strong></p>
+</div>
 
-We began with v0 (raw video files) and ended with coded/labeled video files and datasheet.
+We begin with ~75 participant video files (~300 minutes / 540k frames) that would take many hours to code by hand. This ML-powered and rule-based verified workflow automates the process, outputting labeled video files and accompanying datasheets.
 
 ---
 
-## How the Project Achieves Its Objective
+## How the Project Works
 
 **Video Preprocessing:**  
 Standardize and extract frames with `0_1024resizer.py`, ensuring all later steps handle a consistent format.
@@ -66,7 +73,7 @@ Lastly, `8_movie.py` creates an MP4 with text overlays drawn from the final CSV,
 
 ---
 
-## more detailed information
+## More Detailed Information
 
 **Project Objective**  
 The overall goal is to transform raw video files from eye-tracking studies into organized data and final annotated videos. This method is an alternative to coding with traditional software like ELAN or Datavyu.
@@ -164,5 +171,8 @@ Below is a step-by-step look at each script in the workflow:
 
 ---
 
-[Language and Cognitive Lab]: https://www.tc.columbia.edu/lcl/  
+[Language and Cognitive Lab]  
+[GitHub Repository]
+
+[Language and Cognitive Lab]: https://www.tc.columbia.edu/lcl/
 [GitHub Repository]: https://github.com/yurigushiken/google-shared-drive-exporter
