@@ -1,14 +1,19 @@
 # README
 
-<p>
-  <img src="media/infant_eye-tracking_v0.jpg" width="200" /> ➡️
-  <img src="media/infant_eye-tracking_v1.jpg" width="200" /> ➡️
-  <img src="media/infant_eye-tracking_v2.jpg" width="200" />
+<p style="display: inline-block; vertical-align: middle; text-align: center;">
+  <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_v0.jpg" width="200" /><br/>
+  <a href="https://www.youtube.com/watch?v=45lbqvLpGYQ">YouTube Video of v0</a>
 </p>
-
-[YouTube Video of v0](https://www.youtube.com/watch?v=45lbqvLpGYQ)  
-[YouTube Video of v1](https://www.youtube.com/watch?v=IVCymlJNT1A)  
-[YouTube Video of v2](https://www.youtube.com/watch?v=M90Rbu8EGZc)
+<span style="display: inline-block; vertical-align: middle; margin: 0 10px;">→</span>
+<p style="display: inline-block; vertical-align: middle; text-align: center;">
+  <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_v1.jpg" width="200" /><br/>
+  <a href="https://www.youtube.com/watch?v=IVCymlJNT1A">YouTube Video of v1</a>
+</p>
+<span style="display: inline-block; vertical-align: middle; margin: 0 10px;">→</span>
+<p style="display: inline-block; vertical-align: middle; text-align: center;">
+  <img src="https://github.com/yurigushiken/ML-video-coding-workflow/raw/main/media/infant_eye-tracking_v2.jpg" width="200" /><br/>
+  <a href="https://www.youtube.com/watch?v=M90Rbu8EGZc">YouTube Video of v2</a>
+</p>
 
 We began with older video data (collected ~2003).  
 We coded the video for...
